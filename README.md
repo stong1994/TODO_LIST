@@ -22,9 +22,15 @@
 1. [Go1.13 defer 的性能是如何提高的？][(https://mp.weixin.qq.com/s?__biz=MzU3Mzk5OTk1OQ==&mid=2247483707&idx=1&sn=9e13518823310cb79d540383e93e8bc8&chksm=fd385f03ca4fd615a9c06d2b61864cc91ab3071767e46116203f31888ffb3cf6980bed45f918&mpshare=1&scene=1&srcid=&sharer_sharetime=1567836859547&sharer_shareid=809f56b7015080ad6ccaa86b44668d0d&key=8808a99ca3b21607ecf26b5ccbc79071041e148034efcf59ca04faaa6505080e10d64d58410f62477dce89013dcb3243e439e89716282ea19777c5c67f2b1e030523b4b519765141729a05f4a2881849&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060834&lang=zh_CN&pass_ticket=MnJEMkpzTMy9OiVp7GaTUeMpO1xyBThSfzBpdiUHQxLkK2vHGYgCtxxwKY2gwcnl)]
 2. [Go1.13 之 Error Wrapping](https://mp.weixin.qq.com/s?__biz=MzIyMTY3NDI3Ng==&mid=2247483704&idx=1&sn=5edacc953d72da750b482cdcec200673&chksm=e8386f73df4fe66528495c6378af99175b6a55a36fa7260cb2fbba0820cf6561f08fd01aa80a&mpshare=1&scene=1&srcid=&sharer_sharetime=1567748010592&sharer_shareid=f5e47e146b50b09fca018057d1452bcd&key=cf5b62dfad07411d05d4b111d75b276649bd0a16d58a75adea97bd78c9e938c490cbae7b0120f4b4db8b618f95cda7e8785abec74a8997084a4c0cfaa62ce2c58e21fffdaeb7e3ef8f6eb0e5550e422b&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060834&lang=zh_CN&pass_ticket=MnJEMkpzTMy9OiVp7GaTUeMpO1xyBThSfzBpdiUHQxLkK2vHGYgCtxxwKY2gwcnl)
 
+#### golang扩展
+1. [Micro 中国站教程系列](https://github.com/micro-in-cn/tutorials)
+
+#### redis
+1. [跟我速览Redis的六大数据结构！](https://mp.weixin.qq.com/s?__biz=MzU4NzkzOTQwNQ==&mid=2247483671&idx=1&sn=7f8b23127ff11dc0563b04b2f792567d&chksm=fde52a35ca92a3234e326b5b8d46ddc0e3edafd7cf3bd406db44d1f16ea30c726ded4b1ac60c&mpshare=1&scene=1&srcid=&sharer_sharetime=1569038561189&sharer_shareid=432a9c12c6e933b28040c556b91caa5c&key=8808a99ca3b216073ed531805231fac35e41cae4d7f0ead9f5533d058095bdd9625f4cf9e9842a734b6ab9f1311cca757b2bd31fcc63a4b0f9fc368898fd260f7777960b1374b9d6cec6cd8f3448f3df&ascene=14&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=j76z26tVYd%2Bn7NpexuzzRekCddGw5MKDDqkXpUXDudb0OrZb%2FgocF9rp4l%2Bvo%2Bhr)
 #### 其他技术类
 1. [Code Review最佳实践](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247489898&idx=1&sn=5c5e41a0f695649046de3db1b1810df5&chksm=e9c5e0dbdeb269cd52f798c675f58295ad0f632283c0fb07db4140949c72796deed7dfe7d434&mpshare=1&scene=1&srcid=&sharer_sharetime=1567063039500&sharer_shareid=f5e47e146b50b09fca018057d1452bcd&key=d67a32a1db8c2139ca9471bce8b2f4df4d78fdfa9be1742899f74bdc05305e0af1355e64adec8c5a1c558566f68274f960e56dd24afb5d0a71e3f6759493e674dac5fa5167d8af81708fbf437cc079f6&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060834&lang=zh_CN&pass_ticket=MnJEMkpzTMy9OiVp7GaTUeMpO1xyBThSfzBpdiUHQxLkK2vHGYgCtxxwKY2gwcnl)
 2. [10种Git技巧，让你省时省力又省心！](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247490747&idx=1&sn=659415dda67813229d9e22ea6f3feb3a&chksm=97ea36dea09dbfc8403ac08354fc2e424d129535514b3d5e5437cf09066b32967ef0221f43bb&mpshare=1&scene=1&srcid=&sharer_sharetime=1567925170115&sharer_shareid=f5e47e146b50b09fca018057d1452bcd&key=cf5b62dfad07411d5f8f76a8b4d067fadac9a4500e3dcd5b96ddb9d58c7f9c344ec6d04a70566d51d0884217869202f51904a7136f8a80183cb8dd6b5a8e2f64b41b7388b49772c5f99de2eecc5d12a7&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060834&lang=zh_CN&pass_ticket=8WUrobpuNrPfm7HKsv6WrWfNSgJJZSezzge9EW%2Fpe6px7oD6QI4EuXBlCUpglQQ2)
+3. [漫画：什么是一致性哈希？](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191083&idx=1&sn=c68c8bb7e18c4d46b85666be10e9ef50&chksm=8c990971bbee80675b6cd0ac3c2c17546cd434c3636616e559ca5cf10d1815c3aed24bfd3c83&mpshare=1&scene=1&srcid=0922wXVZ3JY6uXV3yQLvRlt7&sharer_sharetime=1569117516204&sharer_shareid=db545659f468f617db52f332af2d0589&key=e16964c072f0d5a75ad434b3239683735351002310d123ac126c851e95b7c64df543a65a758d6c11847d20abf31e49fb88aa2349e1b84bd058b94f84b092d11b146a0c0ec1123793800b7bbbbaf1648a&ascene=14&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=j76z26tVYd%2Bn7NpexuzzRekCddGw5MKDDqkXpUXDudb0OrZb%2FgocF9rp4l%2Bvo%2Bhr)
 
 #### 新闻订阅类
 
@@ -33,3 +39,6 @@
 #### 书籍
 1. 《暗时间》：时间管理及思维认知
 2. 《千面英雄》
+3. 《投资自己的梦想：孙正义的人生哲学》
+4. 《终身学习：10个你必须掌握的未来生存法则》
+5. 《一路走来一路读》
