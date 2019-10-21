@@ -32,9 +32,9 @@
     3. [gRPC 基于 CA 的 TLS 证书认证](https://mp.weixin.qq.com/s/gbaYe9X7FKTg-Fn-JTFKqQ)
     3. [gRPC Unary and Stream interceptor](https://mp.weixin.qq.com/s/ahxXBmpA9yCD9vFp0SslSg)
     3. [让你的服务同时提供 HTTP 接口](https://mp.weixin.qq.com/s/XgfpZQNriVl3Yr5ZRpvLfg)
-    4. [gRPC 对 RPC 方法做自定义认证](https://mp.weixin.qq.com/s?__biz=MzAwNzEzNDMyNg==&mid=2247483743&idx=1&sn=84e1d5950bfee189f76a02bb249fedd4&chksm=9b038c46ac7405507736577c09278f791f27d687c1382ed8576b1ef231866082a2ecc8d02b24&mpshare=1&scene=1&srcid=&sharer_sharetime=1570724785550&sharer_shareid=f5e47e146b50b09fca018057d1452bcd&key=8808a99ca3b21607e8fc5e4712c78f0da886cc52117a0423bef7348dfc10ec4a45102a4fb426f31935243368af2c6412465a71b53d5ca454498d98a04a380809749034fc0e6b78b8b652bfcab048a1cb&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=9NB6ikjVZBj0fBC38cvWzKUqK8y97u%2FOnvkwcAHDzR%2FIirdR%2B4LEBsgOgIWb8QYR)
-    5. [gRPC 超时控制](https://mp.weixin.qq.com/s?__biz=MzAwNzEzNDMyNg==&mid=2247483743&idx=2&sn=3f3d3648a93ec5a20595f2408f721994&chksm=9b038c46ac740550247ebe24272ba9d17fb91582b01356e8bb98f6b2af033e0c2102437ae488&mpshare=1&scene=1&srcid=&sharer_sharetime=1570724793757&sharer_shareid=f5e47e146b50b09fca018057d1452bcd&key=8808a99ca3b216077d7f3eea3116e390d5f7a999db95ab58db1e489102d7652a84e9c84eeddfed9a166a574a2cd168d605c43991f566e16d783a55b537824879f2a4466678de1a49347e49f4607b2f0e&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=9NB6ikjVZBj0fBC38cvWzKUqK8y97u%2FOnvkwcAHDzR%2FIirdR%2B4LEBsgOgIWb8QYR)
-    6. [gRPC + Zipkin 分布式链路追踪](https://mp.weixin.qq.com/s?__biz=MzAwNzEzNDMyNg==&mid=2247483743&idx=3&sn=ae8da20c3b50ab1e36dde5032f7a5697&chksm=9b038c46ac74055084252ab681372c1a42e1e9bfec52d5bc78daa7b67aaa8d6a3ad07c163d14&mpshare=1&scene=1&srcid=&sharer_sharetime=1570724800707&sharer_shareid=f5e47e146b50b09fca018057d1452bcd&key=b97804376b1264afeba2f0554af1084b233b7d754a768e6f94f62e414461ad45f1e77597eca99dac982283c777da04ef154f1512505764b091b369ed7dfb17790fa1adf27b9e2d2ee1ae9f90b3f970bc&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=9NB6ikjVZBj0fBC38cvWzKUqK8y97u%2FOnvkwcAHDzR%2FIirdR%2B4LEBsgOgIWb8QYR)
+    4. [gRPC 对 RPC 方法做自定义认证](https://mp.weixin.qq.com/s/I012nQ3Df-S130RpJ0nIPA)
+    5. [gRPC 超时控制](https://mp.weixin.qq.com/s/5Mc1aDW-d7fEq_CWpeUQAQ)
+    6. [gRPC + Zipkin 分布式链路追踪](https://mp.weixin.qq.com/s/iQYhdMz_nUV7ODZF7oorRQ)
     7. [【推荐】 grpc学习项目](https://github.com/developer-learning/night-reading-go/issues/477)
 3. [干货满满的 Go Modules 和 goproxy.cn](https://mp.weixin.qq.com/s/AsdCDodxZFxs2SkhSwOvpg)
 4. [滴滴曹大：为什么 Go 模块在下游服务抖动恢复后，CPU 占用无法恢复](https://mp.weixin.qq.com/s/g-qpdwTj4H4cLwVUnYySfQ)
@@ -45,6 +45,9 @@
     2. [database/sql 一点深入理解](https://michaelyou.github.io/2018/03/30/database-sql-%E4%B8%80%E7%82%B9%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3/)
 7. [Go-Micro 微服务框架](https://github.com/developer-learning/night-reading-go/issues/457)
 8. [800 字彻底理解 Go 指针](https://mp.weixin.qq.com/s/m9EXQa5lgQ8T3tXzB84n9g)
+9. GC
+    1. [Go垃圾回收 1：历史和原理](https://stellarportio.zendesk.com/hc/en-us/sections/360000433973-API-Docs)
+10. [GO风格的代码规范](https://github.com/uber-go/guide/blob/master/style.md)
 #### redis
 1. [跟我速览Redis的六大数据结构！](https://mp.weixin.qq.com/s?__biz=MzU4NzkzOTQwNQ==&mid=2247483671&idx=1&sn=7f8b23127ff11dc0563b04b2f792567d&chksm=fde52a35ca92a3234e326b5b8d46ddc0e3edafd7cf3bd406db44d1f16ea30c726ded4b1ac60c&mpshare=1&scene=1&srcid=&sharer_sharetime=1569038561189&sharer_shareid=432a9c12c6e933b28040c556b91caa5c&key=8808a99ca3b216073ed531805231fac35e41cae4d7f0ead9f5533d058095bdd9625f4cf9e9842a734b6ab9f1311cca757b2bd31fcc63a4b0f9fc368898fd260f7777960b1374b9d6cec6cd8f3448f3df&ascene=14&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=j76z26tVYd%2Bn7NpexuzzRekCddGw5MKDDqkXpUXDudb0OrZb%2FgocF9rp4l%2Bvo%2Bhr)
 2. [再探Redis对象与底层数据结构的关系](https://mp.weixin.qq.com/s?__biz=MzU4NzkzOTQwNQ==&mid=2247483691&idx=1&sn=e7a9bef58b7dc73e4a68cf64a3b80560&chksm=fde52a09ca92a31f45d3f7f989e45dc6e4f8c0738be0b5f5719d757b69ba1cf880ae3367d10f&mpshare=1&scene=1&srcid=&sharer_sharetime=1569667708429&sharer_shareid=432a9c12c6e933b28040c556b91caa5c&key=b97804376b1264af76d679e2ccbd689f2958c2e3d705774b95c8dd09ac412e94e318fa9e530cf0a7c2775a1d3d28185615d2609ffab713f1a53126422a953334f4a6ca24df18dde7829f3699a61e63ab&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=9NB6ikjVZBj0fBC38cvWzKUqK8y97u%2FOnvkwcAHDzR%2FIirdR%2B4LEBsgOgIWb8QYR)
@@ -64,3 +67,4 @@
 3. 《投资自己的梦想：孙正义的人生哲学》
 4. 《终身学习：10个你必须掌握的未来生存法则》
 5. 《一路走来一路读》
+6. 《不能承受的生命之轻》
