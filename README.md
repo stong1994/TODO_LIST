@@ -46,7 +46,7 @@
 7. [Go-Micro 微服务框架](https://github.com/developer-learning/night-reading-go/issues/457)
 8. [800 字彻底理解 Go 指针](https://mp.weixin.qq.com/s/m9EXQa5lgQ8T3tXzB84n9g)
 9. GC
-    1. [Go垃圾回收 1：历史和原理](https://stellarportio.zendesk.com/hc/en-us/sections/360000433973-API-Docs)
+    1. [Go垃圾回收 1：历史和原理](https://mp.weixin.qq.com/s/THleFV_uKMq4qsoODi2PdQ)
 10. [GO风格的代码规范](https://github.com/uber-go/guide/blob/master/style.md)
 #### redis
 1. [跟我速览Redis的六大数据结构！](https://mp.weixin.qq.com/s?__biz=MzU4NzkzOTQwNQ==&mid=2247483671&idx=1&sn=7f8b23127ff11dc0563b04b2f792567d&chksm=fde52a35ca92a3234e326b5b8d46ddc0e3edafd7cf3bd406db44d1f16ea30c726ded4b1ac60c&mpshare=1&scene=1&srcid=&sharer_sharetime=1569038561189&sharer_shareid=432a9c12c6e933b28040c556b91caa5c&key=8808a99ca3b216073ed531805231fac35e41cae4d7f0ead9f5533d058095bdd9625f4cf9e9842a734b6ab9f1311cca757b2bd31fcc63a4b0f9fc368898fd260f7777960b1374b9d6cec6cd8f3448f3df&ascene=14&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=j76z26tVYd%2Bn7NpexuzzRekCddGw5MKDDqkXpUXDudb0OrZb%2FgocF9rp4l%2Bvo%2Bhr)
