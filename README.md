@@ -43,14 +43,20 @@
     1. [Logrus源码阅读(1)--基本用法](https://mp.weixin.qq.com/s/bFfJ4Ip726HrM32jXmMIcw)
     1. [Logrus源码阅读(2)--logrus生命周期](https://mp.weixin.qq.com/s/jBs26-K60oodMOJ2Q439OA)
     2. [database/sql 一点深入理解](https://michaelyou.github.io/2018/03/30/database-sql-%E4%B8%80%E7%82%B9%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3/)
+    3. [从Go开源项目BigCache学习加速并发访问和避免高额的GC开销](https://mp.weixin.qq.com/s/SLWj9Qph22cweHtnmh5QhQ)
 7. [Go-Micro 微服务框架](https://github.com/developer-learning/night-reading-go/issues/457)
 8. [800 字彻底理解 Go 指针](https://mp.weixin.qq.com/s/m9EXQa5lgQ8T3tXzB84n9g)
 9. GC
     1. [Go垃圾回收 1：历史和原理](https://mp.weixin.qq.com/s/THleFV_uKMq4qsoODi2PdQ)
 10. [GO风格的代码规范](https://github.com/uber-go/guide/blob/master/style.md)
+11. [sync.Pool 一定会提升性能吗](https://mp.weixin.qq.com/s/uAjcH7raKnlkJ29iX1q8cw)
+12. [你为什么要喜欢 sync.Pool ？](https://mp.weixin.qq.com/s/oF5gIR8DYEM9zTk8-cQ3Kw)
+
 #### redis
 1. [跟我速览Redis的六大数据结构！](https://mp.weixin.qq.com/s?__biz=MzU4NzkzOTQwNQ==&mid=2247483671&idx=1&sn=7f8b23127ff11dc0563b04b2f792567d&chksm=fde52a35ca92a3234e326b5b8d46ddc0e3edafd7cf3bd406db44d1f16ea30c726ded4b1ac60c&mpshare=1&scene=1&srcid=&sharer_sharetime=1569038561189&sharer_shareid=432a9c12c6e933b28040c556b91caa5c&key=8808a99ca3b216073ed531805231fac35e41cae4d7f0ead9f5533d058095bdd9625f4cf9e9842a734b6ab9f1311cca757b2bd31fcc63a4b0f9fc368898fd260f7777960b1374b9d6cec6cd8f3448f3df&ascene=14&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=j76z26tVYd%2Bn7NpexuzzRekCddGw5MKDDqkXpUXDudb0OrZb%2FgocF9rp4l%2Bvo%2Bhr)
 2. [再探Redis对象与底层数据结构的关系](https://mp.weixin.qq.com/s?__biz=MzU4NzkzOTQwNQ==&mid=2247483691&idx=1&sn=e7a9bef58b7dc73e4a68cf64a3b80560&chksm=fde52a09ca92a31f45d3f7f989e45dc6e4f8c0738be0b5f5719d757b69ba1cf880ae3367d10f&mpshare=1&scene=1&srcid=&sharer_sharetime=1569667708429&sharer_shareid=432a9c12c6e933b28040c556b91caa5c&key=b97804376b1264af76d679e2ccbd689f2958c2e3d705774b95c8dd09ac412e94e318fa9e530cf0a7c2775a1d3d28185615d2609ffab713f1a53126422a953334f4a6ca24df18dde7829f3699a61e63ab&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=9NB6ikjVZBj0fBC38cvWzKUqK8y97u%2FOnvkwcAHDzR%2FIirdR%2B4LEBsgOgIWb8QYR)
+3. [图解redis五种数据结构底层实现(动图哦)](https://mp.weixin.qq.com/s/-NFlyGcaFY4bsCFI7oIvIg)
+
 #### 其他技术类
 1. [Code Review最佳实践](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247489898&idx=1&sn=5c5e41a0f695649046de3db1b1810df5&chksm=e9c5e0dbdeb269cd52f798c675f58295ad0f632283c0fb07db4140949c72796deed7dfe7d434&mpshare=1&scene=1&srcid=&sharer_sharetime=1567063039500&sharer_shareid=f5e47e146b50b09fca018057d1452bcd&key=d67a32a1db8c2139ca9471bce8b2f4df4d78fdfa9be1742899f74bdc05305e0af1355e64adec8c5a1c558566f68274f960e56dd24afb5d0a71e3f6759493e674dac5fa5167d8af81708fbf437cc079f6&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060834&lang=zh_CN&pass_ticket=MnJEMkpzTMy9OiVp7GaTUeMpO1xyBThSfzBpdiUHQxLkK2vHGYgCtxxwKY2gwcnl)
 2. [10种Git技巧，让你省时省力又省心！](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247490747&idx=1&sn=659415dda67813229d9e22ea6f3feb3a&chksm=97ea36dea09dbfc8403ac08354fc2e424d129535514b3d5e5437cf09066b32967ef0221f43bb&mpshare=1&scene=1&srcid=&sharer_sharetime=1567925170115&sharer_shareid=f5e47e146b50b09fca018057d1452bcd&key=cf5b62dfad07411d5f8f76a8b4d067fadac9a4500e3dcd5b96ddb9d58c7f9c344ec6d04a70566d51d0884217869202f51904a7136f8a80183cb8dd6b5a8e2f64b41b7388b49772c5f99de2eecc5d12a7&ascene=1&uin=MjEwMjA3MTA2NQ%3D%3D&devicetype=Windows+10&version=62060834&lang=zh_CN&pass_ticket=8WUrobpuNrPfm7HKsv6WrWfNSgJJZSezzge9EW%2Fpe6px7oD6QI4EuXBlCUpglQQ2)
